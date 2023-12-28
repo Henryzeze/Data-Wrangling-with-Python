@@ -1,5 +1,7 @@
 # Data-Wrangling-with-Python
 
+![](wrangling.jpg)
+
 ## Overview
 
 This project focuses on data wrangling, a process aimed at transforming data from its initial format to a more suitable format for analysis. We'll be working with the "Automobile Dataset," which involves importing data and addressing specific queries related to fuel consumption rates for diesel cars.
